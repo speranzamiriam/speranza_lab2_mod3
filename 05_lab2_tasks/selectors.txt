@@ -1,12 +1,12 @@
 /**********/
 1. driver.findElement(By.cssSelector("svg._siteLogo__image_4hszn._siteLogo__image_y069l > path")).click();
-2.driver.findElement(By.xpath("//header[@id='wt-site-header']/div/div/div[2]/div/div/nav/div[2]/button")).click();
-
-3.driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Estudio Total Economic Impact™ de IntelliJ IDEA'])[1]/following::*[name()='svg'][4]")).click();
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+2.driver.findElement(By.xpath("//header[@id='wt-site-header']/div/div/div[2]/div/div/nav/div[2]/button"));
+3.driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Estudio Total Economic Impact™ de IntelliJ IDEA'])[1]/following::*[name()='svg'][4]"));
+4.driver.findElement(By.linkText("Descargar"));
+5.driver.findElement(By.xpath("//div[@id='overview-content']/div/section[3]/div/div/div/a/h3")).click();
+6.driver.findElement(By.linkText("IntelliJ Profiler"));
+7.driver.findElement(By.xpath("//div[@id='overview-content']/div/section[6]/div/div/div/div/div/span/button"));
+8.driver.findElement(By.xpath("//div[@id='overview-content']/div/section[6]/div/div/div[2]/div/div/span/a"));
+9.driver.findElement(By.linkText("Comparar ediciones"));
+10.driver.findElement(By.cssSelector("svg.wt-icon.wt-icon_theme_light.wt-icon_size_xs.wt-privacy-notice__info-icon > path")):
+   driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Stop'])[1]/following::span[2]")):
